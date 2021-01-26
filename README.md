@@ -1,15 +1,15 @@
 # GIMP Gradients
 
-## Diverging
+## [Diverging](Diverging/)
 
-`BrBG`
-![img](images/BrBG.png)
+[`BrBG`](Diverging/BrBG.ggr?raw=1)
+[![img](images/BrBG.png)](Diverging/BrBG.ggr?raw=1)
 
-`PRGn`
-![img](images/PRGn.png)
+[`PRGn`](Diverging/PRGn.ggr?raw=1)
+[![img](images/PRGn.png)](Diverging/PRGn.ggr?raw=1)
 
-`PiYG`
-![img](images/PiYG.png)
+[`PiYG`](Diverging/PiYG.ggr?raw=1)
+[![img](images/PiYG.png)](Diverging/PiYG.ggr?raw=1)
 
 `PuOr`
 ![img](images/PuOr.png)
@@ -29,7 +29,7 @@
 `Spectral`
 ![img](images/Spectral.png)
 
-## Sequential (Single Hue)
+## [Sequential (Single Hue)](Sequential_Single_Hue/)
 
 `Blues`
 ![img](images/Blues.png)
@@ -49,7 +49,7 @@
 `Reds`
 ![img](images/Reds.png)
 
-## Sequential (Multi-Hue)
+## [Sequential (Multi-Hue)](Sequential_Multi_Hue/)
 
 `Turbo`
 ![img](images/Turbo.png)
@@ -114,7 +114,7 @@
 `YlOrRd`
 ![img](images/YlOrRd.png)
 
-## Cyclical
+## [Cyclical](Cyclical/)
 
 `Rainbow`
 ![img](images/Rainbow.png)
