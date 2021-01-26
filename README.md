@@ -1,8 +1,10 @@
 # GIMP Gradients
 
+![Gradient Map](images/lenna-gradient-map.jpg)
+
 ## How to Install the Gradient?
 
-* Download the `.ggr` file(s). Right-click on the gradient bellow, and click `Save link as` or `Download link`.
+* Download the `.ggr` file(s). Right-click on the gradient bellow, and click `Save Link As...` or `Download link`.
 * Place them in one of the directory listed in `Edit` > `Preferences` > `Folders` > `Gradients`.
 * Restart GIMP.
 
