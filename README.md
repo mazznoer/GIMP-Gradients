@@ -129,3 +129,9 @@
 
 [`Sinebow`](Cyclical/Sinebow.ggr?raw=1)
 [![img](images/Sinebow.png)](Cyclical/Sinebow.ggr?raw=1)
+
+### Created using
+
+* GIMP
+* Python
+* [Rust](https://github.com/mazznoer/colorgrad-rs)
